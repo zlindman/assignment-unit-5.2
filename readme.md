@@ -2,7 +2,7 @@
 
 This assignment, we'll be reviewing HTML and CSS by styling a page which could be used for a record collection.
 
-## Topics Covered
+## Topics Covered 
 
 - HTML review
 - `background-color`

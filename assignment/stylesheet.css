@@ -1,0 +1,16 @@
+header{
+    background-color: darkslateblue;
+    color: orange;
+    text-align: center;
+}
+
+main{
+    background-color: lightgray;
+    padding: 1em;
+}
+
+body{
+    background-image: url(record.png);
+    background-repeat: inherit;
+    margin: 0%;
+}
